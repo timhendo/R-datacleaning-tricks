@@ -2,7 +2,7 @@ Tricks for cleaning your data in R
 ================
 
 **By [Christine Zhang](https://twitter.com/christinezhang) (ychristinezhang at gmail dot com)**
-*Storytelling with Data Workshop at Boston University (June 6, 2017)* <br><br>
+*Storytelling with Data Workshop at Boston University (June 13, 2017)* <br><br>
 
 \*GitHub repository for Data+Code: <https://github.com/underthecurve/r-data-cleaning-tricks*>
 
